@@ -1,29 +1,24 @@
-### Hi there, I'm Dillon 
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+# Hi there, I'm Dillon 
+### I'm Listening To 🎧
+[![Spotify](https://spotify-player.dillon-co.vercel.app/api/spotify)](https://open.spotify.com/user/124387117)
 
 ## I'm a Full Stack Software Engineer
 
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I love learning new tech 
+- 👯 Looking to collaborate with other entrepreneurs
+- 🥅 2020 Goals: Have a side projects generate income
+- ⚡ Fun fact: I really enjoy climbing
 
-### Spotify Playing 🎧
 
-[<img src="https://spotify-player-liard.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/124387117)
-
-spotify-player-liard.vercel.app
-[![Spotify](https://dillon-co.vercel.app/api/spotify-playing)](https://open.spotify.com/user/)
-[[Spotify](https://dillon-co.vercel.app/api/spotify-playing)](https://open.spotify.com/user/)
 ### Connect with me:
+###### 
+[<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | email" width="40px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/473b41f3919527e9ca60aef18539937a351b86c4/icons/gmail.svg" />][linkedin]
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-### Languages and Tools:
+## Tools:
 ####Frontend
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
@@ -35,23 +30,25 @@ spotify-player-liard.vercel.app
 
 ####Backend
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
+[<img align="left" alt="SQL" width="26px" src="https://www.iconfinder.com/data/icons/web-and-mobile-ui-volume-7/48/309-512.png" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/473b41f3919527e9ca60aef18539937a351b86c4/icons/mysql.svg" />][webdevplaylist]
+[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/473b41f3919527e9ca60aef18539937a351b86c4/icons/graphql.svg" />][webdevplaylist]
 [<img align="left" alt="postgresql" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/473b41f3919527e9ca60aef18539937a351b86c4/icons/git.svg" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-[<img align="left" alt="Ruby" width="26px" src="https://w7.pngwing.com/pngs/832/921/png-transparent-computer-icons-ruby-programming-language-computer-programming-ruby-angle-rectangle-logo.png" />][webdevplaylist]
-[<img align="left" alt="Python" width="26px" src="https://p1.hiclipart.com/preview/742/401/98/alternative-python-icons-and-folder-icon-python-2-png-clipart.jpg" />][webdevplaylist]
+[<img align="left" alt="Ruby" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" />][webdevplaylist]
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][webdevplaylist]
 #### Favorite Frameworks
-[<img align="left" alt="Terminal" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="120px" src="https://blog.theodo.com/static/bb17d4040404bd7c837edf28091311a8/ee604/electron.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="160px" src="https://camo.githubusercontent.com/627c774e3070482b180c3abd858ef2145d46303b/68747470733a2f2f656c656374726f6e6a732e6f72672f696d616765732f656c656374726f6e2d6c6f676f2e737667" />][webdevplaylist]
 
 #### I also really love
-[<img align="left" alt="Terminal" width="80px" src="https://miro.medium.com/fit/c/1533/462/1*cdq0tzONgmPd99WvxRRBeA.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ArXiv_web.svg/1200px-ArXiv_web.svg.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="100px" src="https://github.com/dillon-co/dillon-co/assets/arxiv-logo.svg" />][webdevplaylist]
+
+
+
 
 <br />
 
@@ -61,18 +58,17 @@ spotify-player-liard.vercel.app
 
 
 <details>
-  <summary>:GitHub Stats</summary>
-
+  <summary>GitHub Stats</summary>
   <img align="left" alt="dillon-co's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dillon-co&show_icons=true&hide_border=true" />
-
 </details>
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/dilloncortez
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[website]: github.com/dillon-co
+[twitter]: github.com/dillon-co
+[youtube]: github.com/dillon-co
+[instagram]: github.com/dillon-co
+[linkedin]: githlinkedin.com/in/dilloncortez
+[webdevplaylist]: github.com/dillon-co
+[jsplaylist]: github.com/dillon-co
+[cssplaylist]: github.com/dillon-co
+[reactplaylist]: github.com/dillon-co
+[email]: mailto:dilloncortez@gmail.com
