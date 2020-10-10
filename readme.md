@@ -19,7 +19,7 @@
 <br />
 
 # Tools:
-#### Frontend
+### Frontend
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
@@ -31,7 +31,7 @@
 <br/>
 <br/>
 
-#### Backend
+### Backend
 
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://www.iconfinder.com/data/icons/web-and-mobile-ui-volume-7/48/309-512.png" />][webdevplaylist]
@@ -46,7 +46,7 @@
 <br/>
 <br/>
 
-#### Favorite Frameworks 
+### Favorite Frameworks 
 <br/>
 
 [<img align="left" alt="Terminal" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" />][webdevplaylist]
@@ -55,7 +55,7 @@
 <br/>
 <br/>
 
-#### I also really love
+### I also really love
 <br/>
 
 [<img align="left" alt="Terminal" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" />][webdevplaylist]
