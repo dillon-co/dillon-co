@@ -73,7 +73,7 @@
 
 <details>
   <summary>GitHub Stats</summary>
-  <img align="left" alt="dillon-co's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dillon-co&show_icons=true&hide_border=true" />
+  <img align="left" alt="dillon-co's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dillon-co&show_icons=true" />
 </details>
 
 [website]: github.com/dillon-co
