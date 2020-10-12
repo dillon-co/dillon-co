@@ -25,8 +25,8 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.w3schools.com/css/)
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />](https://sass-lang.com/)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com/)
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://www.javascript.com/)
-[<img align="left" alt="vue" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/vue-282497.png" />](https://www.javascript.com/)
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://www.reactjs.com/)
+[<img align="left" alt="vue" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/vue-282497.png" />](https://www.vuejs.org/)
 [<img align="left" alt="angular" width="26px" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" />](https://angularjs.org/)
 <br/>
 <br/>
